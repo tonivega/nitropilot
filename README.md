@@ -259,7 +259,7 @@ At 20,000 stars, we'll open source:
 
 ### Cost
 
-Usually, low token usage.
+Usually, lower token usage than alternatives.
 
 ### Performance
 
@@ -267,15 +267,15 @@ Usually, not slower than alternatives.
 
 ## 🔒 Security
 
-NONE (can access anything and at this moment no efforts has been made to be prompt injection resistant)
+NONE (can access anything in your device and at this moment no efforts has been made to be prompt injection resistant)
 
-
-See [SECURITY.md](SECURITY.md) for detailed security guidelines.
-
+No telemetry is included in the executable.
 
 ## 📜 License
 
-**Current Release**: Proprietary Software
+No Warranty/Liability: The software is provided "as is," without any guarantees, and authors aren't liable for damage
+
+**Current Release**: Shareware - Proprietary Software
 
 **After 20K Stars**: MIT License - use it anywhere, commercially or personally
 
